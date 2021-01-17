@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "nest_db_config",
+    "password": "nest_DB_c0nf!g",
+    "database": "nest_db_config",
+    "entities": [],
+    "synchronize": true
+}
